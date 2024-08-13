@@ -36,9 +36,10 @@ The data for this analysis was sourced from the company's customer relationship 
 ## Data Description
 
 ### Data Overview
+The dataset used for this project can be downloaded [here](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/raw/main/Churn_Modelling.csv)
 
 The dataset comprises information on 10,000 customers with the following key metrics:
-- Total Customers: 10,000
+- Total Customers: 10,000   
 - Average Age: 44.84 years
 - Total Churned Customers: 2,037
 - Retention Rate: 79.63%
