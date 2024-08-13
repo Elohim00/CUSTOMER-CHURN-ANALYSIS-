@@ -87,6 +87,13 @@ The analysis was conducted using:
 
 ### Findings
 
+
+![Churn Modelling Dashboard](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/blob/main/7841C482-872D-4327-9AD8-C94ED641F71A.png?raw=true)
+
+
+
+
+
 ##### Customer Distribution:
 The analysis reveals a slight gender imbalance in the customer base, with females comprising 54.57% and males 45.43% of the total. This gender split is significant, potentially indicating a stronger appeal of the company's products or services to female consumers. The average age of 44.84 years suggests a mature customer base, likely consisting of established professionals or individuals in their mid-career stage.
 
@@ -149,6 +156,8 @@ The dashboard incorporates several key visualizations that effectively communica
 
 ##### Donut Charts for Gender Distribution and Product Ownership:
 
+![79358F2A-5F02-481c-8F58-FA80D2680A85.png](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/blob/main/79358F2A-5F02-481c-8F58-FA80D2680A85.png?raw=true)
+
 Donut charts are used to display the gender distribution and product ownership breakdown. These charts are particularly effective for showing part-to-whole relationships.
 Gender Distribution Donut Chart:
 
@@ -158,6 +167,11 @@ The circular nature of the chart emphasizes the completeness of the customer bas
 
 ##### Product Ownership Donut Chart:
 
+
+![A36C9870-113E-4b5a-8B79-65D85522C42B.png](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/blob/main/A36C9870-113E-4b5a-8B79-65D85522C42B.png?raw=true)
+
+
+
 Divided into four segments representing customers owning 1, 2, 3, or 4 products.
 The largest segment (49.85%) for single product ownership is instantly noticeable.
 The decreasing sizes of segments for 2, 3, and 4 products visually represent the declining proportion of customers with multiple products.
@@ -165,6 +179,10 @@ This chart effectively highlights the potential for cross-selling and upselling 
 
 
 ##### Bar Chart for Age and Gender Distribution:
+
+![8264E679-12C0-4d72-9105-0EDA65EE804D.png](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/blob/main/8264E679-12C0-4d72-9105-0EDA65EE804D.png?raw=true)
+
+
 
 The bar chart provides a detailed breakdown of the customer base by age group and gender.
 
@@ -177,6 +195,9 @@ This visualization allows for quick identification of underrepresented age group
 
 
 ##### Line Graph for Gender-Based Tenure Analysis:
+
+![6F448CA0-0FDE-435d-AA21-EA32DC48EDAC.png](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/blob/main/6F448CA0-0FDE-435d-AA21-EA32DC48EDAC.png?raw=true)]
+
 
 This line graph illustrates customer tenure patterns for both genders over time.
 
