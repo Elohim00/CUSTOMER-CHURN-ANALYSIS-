@@ -36,7 +36,7 @@ The data for this analysis was sourced from the company's customer relationship 
 ## Data Description
 
 ### Data Overview
-The dataset used for this project can be downloaded [here](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/raw/main/Churn_Modelling.csv)
+The dataset used for this project can be downloaded [here](https://github.com/Elohim00/CUSTOMER-CHURN-ANALYSIS-/raw/main/Churn_Modelling.xls)
 
 The dataset comprises information on 10,000 customers with the following key metrics:
 - Total Customers: 10,000   
