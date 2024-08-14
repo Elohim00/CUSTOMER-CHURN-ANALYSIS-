@@ -6,12 +6,12 @@ This comprehensive dashboard presents a detailed analysis of customer churn for 
 
 ## Table of Contents
 
-1. Project Description
-2. Data Description
-3. Methodology
-4. Results
-5. Conclusion
-6. Insights and Recommendations
+1. [Project Description](#project-description)
+2. [Data Description](#data-description)
+3. [Methodology](#methodology)
+4. [Results](#results)
+5. [Conclusion](conclusion)
+6. [Insights and Recommendations](insights-and-recommendation)
 
 ## Project Description
 
