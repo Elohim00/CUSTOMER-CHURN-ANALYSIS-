@@ -11,7 +11,7 @@ This comprehensive dashboard presents a detailed analysis of customer churn for 
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Conclusion](#conclusion)
-6. [Insights and Recommendations](#insights-and-recommendation)
+6. [Insights and Recommendations](#insights-and-recommendations)
 
 ## Project Description
 
